@@ -33,5 +33,6 @@ end
 group :test do
   gem "database_cleaner"
   gem "rspec"
+  gem "learn-co"
 end
 
